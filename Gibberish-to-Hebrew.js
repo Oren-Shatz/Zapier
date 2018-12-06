@@ -1,7 +1,7 @@
 var res = input.text;
 
 var Gibberish = "àáâãäåæçèéêëìîíðïñòôóöõ÷øùú";
-var Hebrew = "אבגדהוזחטיךכלםמןנסעףפץצקרשת";
+var Hebrew = "אבגדהוזחטיכךלמםנןסעפףצץקרשת";
 
 var i;
 for (i = 0; i < Gibberish.length; i++) { 
